@@ -7,6 +7,8 @@ In addition, tracks can be routed to different MIDI channels using random or fix
 
 Mandy also supports external MIDI control (sync, play / stop and note offset).
 
+[![](http://img.youtube.com/vi/PFX4NWRe-rE/0.jpg)](http://www.youtube.com/watch?v=PFX4NWRe-rE)
+
 ## Input
 
 Key(s) | Action
