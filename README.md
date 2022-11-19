@@ -1,5 +1,5 @@
 # Mandy
-An **experimental MIDI chord sequencer** sketch for the  **Midiboy** (Arduino) platform - written to act as a small hub generating notes in a semi randomised fashion (e.g. triggering a setup with multiple mono synths and sources).
+An **experimental MIDI chord sequencer** sketch for the  [Midiboy](https://blokas.io/midiboy) (Arduino) platform - written to act as a small hub generating notes in a semi randomised fashion (e.g. triggering a setup with multiple mono synths and sources).
 
 In its essence, notes are derived from chords programmed in the step sequencer which are automatically assigned to tracks (all chords consist of 3 notes). Notes are then triggered by applying track specific patterns, lengths and tempo dividers in order to achieve a fair amount of varied MIDI output.
 
